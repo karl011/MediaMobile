@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP App Mobile</string>
+    <string name="text_accueil">Bienvenue sur mon application multifonction</string>
+    <string name="envoi_message">Envoyer le message</string>
+</resources>
