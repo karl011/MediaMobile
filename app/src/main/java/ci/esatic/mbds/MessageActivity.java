@@ -1,4 +1,4 @@
-package ci.esatic.m2sigl;
+package ci.esatic.mbds;
 
 import android.Manifest;
 import android.content.pm.PackageManager;

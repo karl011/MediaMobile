@@ -1,4 +1,4 @@
-package ci.esatic.m2sigl;
+package ci.esatic.mbds;
 
 import android.content.Intent;
 import android.media.MediaPlayer;

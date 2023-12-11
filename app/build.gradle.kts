@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ci.esatic.m2sigl"
+    namespace = "ci.esatic.mbds"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "ci.esatic.m2sigl"
+        applicationId = "ci.esatic.mbds"
         minSdk = 27
         targetSdk = 33
         versionCode = 1
